@@ -1,0 +1,1 @@
+{"processes":{"311ce2a2-03e0-4f4a-87d4-097c4610ffe1":{"parent":"8897fbae-3b06-4187-afd9-d7a9adfafde5","children":[]},"8897fbae-3b06-4187-afd9-d7a9adfafde5":{"parent":null,"children":["311ce2a2-03e0-4f4a-87d4-097c4610ffe1"]}},"files":{"/Users/everton/Projects/everton/js-execicies/01-testing/04-coverage-e2e/src/api.js":["311ce2a2-03e0-4f4a-87d4-097c4610ffe1"]},"externalIds":{}}
